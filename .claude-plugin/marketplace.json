@@ -1,0 +1,42 @@
+{
+  "name": "happyhackingspace-skills",
+  "owner": {
+    "name": "Happy Hacking Space"
+  },
+  "metadata": {
+    "description": "Agent Skills for security, CTF, and hacking tasks by Happy Hacking Space",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "vt",
+      "source": "./skills/vt",
+      "skills": "./",
+      "description": "Spin up intentionally vulnerable environments from the terminal. Deploy labs like DVWA, Juice Shop, and WebGoat for security training and CTF practice."
+    },
+    {
+      "name": "dit",
+      "source": "./skills/dit",
+      "skills": "./",
+      "description": "Classify HTML pages, forms, and fields using machine learning. Detect page types, form types, and field types from HTML content or URLs."
+    },
+    {
+      "name": "funurl",
+      "source": "./skills/funurl",
+      "skills": "./",
+      "description": "A functional URL Swiss Army knife. Parse, modify, encode, decode, and deduplicate URLs from the command line."
+    },
+    {
+      "name": "sindoq",
+      "source": "./skills/sindoq",
+      "skills": "./",
+      "description": "AI Sandbox for secure code execution. Run untrusted code in Docker, Podman, Wasmer, gVisor, Firecracker, Kubernetes, or cloud providers."
+    },
+    {
+      "name": "gakido",
+      "source": "./skills/gakido",
+      "skills": "./",
+      "description": "High-performance Python HTTP client with browser impersonation, TLS fingerprinting, and anti-bot evasion. Supports HTTP/1.1, HTTP/2, and HTTP/3."
+    }
+  ]
+}

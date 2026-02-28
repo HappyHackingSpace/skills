@@ -1,0 +1,20 @@
+{
+  "name": "happyhackingspace-skills",
+  "skills": "skills",
+  "description": "Agent Skills for security, CTF, and hacking tasks by Happy Hacking Space",
+  "version": "1.0.0",
+  "author": {
+    "name": "Happy Hacking Space"
+  },
+  "homepage": "https://github.com/happyhackingspace/skills",
+  "repository": "https://github.com/happyhackingspace/skills",
+  "license": "MIT",
+  "keywords": [
+    "happyhackingspace",
+    "security",
+    "ctf",
+    "hacking",
+    "pentesting",
+    "skills"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "happyhackingspace-skills",
+  "description": "Provides access to the Happy Hacking Space Skills.",
+  "version": "0.1.0",
+  "contextFileName": "agents/AGENTS.md"
+}

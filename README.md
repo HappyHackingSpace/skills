@@ -135,3 +135,7 @@ The `.claude-plugin/marketplace.json` file lists skills with human-readable desc
 
 ### Additional references
 - Browse the latest instructions, scripts, and templates directly at [happyhackingspace/skills](https://github.com/happyhackingspace/skills).
+
+## Credits
+
+Repository structure inspired by [huggingface/skills](https://github.com/huggingface/skills).

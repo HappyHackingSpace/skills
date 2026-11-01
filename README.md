@@ -139,3 +139,7 @@ The `.claude-plugin/marketplace.json` file lists skills with human-readable desc
 ## Credits
 
 Repository structure inspired by [huggingface/skills](https://github.com/huggingface/skills).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HappyHackingSpace/skills&type=Date)](https://star-history.com/#HappyHackingSpace/skills&Date)
